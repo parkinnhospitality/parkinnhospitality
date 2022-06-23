@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syed Hakim, Im from Bangaore, India, and want to start my journey to Code, 
-- 👀 I’m interested in learning Web Development, 
-- 🌱 I’m currently learning HTML, CSS & Javascript,
+- 👀 I’m interested in learning Web Development, Automation, 
+- 🌱 I’m currently learning HTML, CSS & Javascript, Python
 - 💞️ I’m looking to collaborate on new projects and sharing ideas that can help the community and grow mutually, 
 - 📫 How to reach me ...You can reach out to me via mail parkinnhospitality@gmail.com
 
